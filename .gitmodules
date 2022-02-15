@@ -1,81 +1,81 @@
 [submodule "node_modules/@imagina/qblog"]
 	path = node_modules/@imagina/qblog
-	url = https://github.com/imagina/qblog.git
+	url = https://github.com/victoracho/qblog.git
 [submodule "node_modules/@imagina/qcommerce"]
 	path = node_modules/@imagina/qcommerce
-	url = https://github.com/imagina/qcommerce.git
+	url = https://github.com/victoracho/qcommerce.git
 [submodule "node_modules/@imagina/qcrud"]
 	path = node_modules/@imagina/qcrud
-	url = https://github.com/imagina/qcrud.git
+	url = https://github.com/victoracho/qcrud.git
 [submodule "node_modules/@imagina/qform"]
 	path = node_modules/@imagina/qform
-	url = https://github.com/imagina/qform.git
+	url = https://github.com/victoracho/qform.git
 [submodule "node_modules/@imagina/qlocations"]
 	path = node_modules/@imagina/qlocations
-	url = https://github.com/imagina/qlocations.git
+	url = https://github.com/victoracho/qlocations.git
 [submodule "node_modules/@imagina/qmedia"]
 	path = node_modules/@imagina/qmedia
-	url = https://github.com/imagina/qmedia.git
+	url = https://github.com/victoracho/qmedia.git
 [submodule "node_modules/@imagina/qmenu"]
 	path = node_modules/@imagina/qmenu
-	url = https://github.com/imagina/qmenu.git
+	url = https://github.com/victoracho/qmenu.git
 [submodule "node_modules/@imagina/qnotification"]
 	path = node_modules/@imagina/qnotification
-	url = https://github.com/imagina/qnotification.git
+	url = https://github.com/victoracho/qnotification.git
 [submodule "node_modules/@imagina/qpage"]
 	path = node_modules/@imagina/qpage
-	url = https://github.com/imagina/qpage.git
+	url = https://github.com/victoracho/qpage.git
 [submodule "node_modules/@imagina/qplace"]
 	path = node_modules/@imagina/qplace
-	url = https://github.com/imagina/qplace.git
+	url = https://github.com/victoracho/qplace.git
 [submodule "node_modules/@imagina/qredirect"]
 	path = node_modules/@imagina/qredirect
-	url = https://github.com/imagina/qredirect.git
+	url = https://github.com/victoracho/qredirect.git
 [submodule "node_modules/@imagina/qsite"]
 	path = node_modules/@imagina/qsite
-	url = https://github.com/imagina/qsite.git
+	url = https://github.com/victoracho/qsite.git
 [submodule "node_modules/@imagina/qslider"]
 	path = node_modules/@imagina/qslider
-	url = https://github.com/imagina/qslider.git
+	url = https://github.com/victoracho/qslider.git
 [submodule "node_modules/@imagina/quser"]
 	path = node_modules/@imagina/quser
-	url = https://github.com/imagina/quser.git
+	url = https://github.com/victoracho/quser.git
 [submodule "node_modules\\@imagina\\qhelper"]
 	path = node_modules/@imagina/qhelper
-	url = https://github.com/imagina/qhelper.git
+	url = https://github.com/victoracho/qhelper.git
 [submodule "node_modules/@imagina/qdocument"]
 	path = node_modules/@imagina/qdocument
-	url = https://github.com/imagina/qdocument.git
+	url = https://github.com/victoracho/qdocument.git
 [submodule "node_modules/@imagina/qbanner"]
 	path = node_modules/@imagina/qbanner
-	url = https://github.com/imagina/qbanner.git
+	url = https://github.com/victoracho/qbanner.git
 [submodule "node_modules/@imagina/qevent"]
 	path = node_modules/@imagina/qevent
-	url = https://github.com/imagina/qevent.git
+	url = https://github.com/victoracho/qevent.git
 [submodule "node_modules/@imagina/qchat"]
 	path = node_modules/@imagina/qchat
-	url = https://github.com/imagina/qchat.git
+	url = https://github.com/victoracho/qchat.git
 [submodule "node_modules/@imagina/qplan"]
 	path = node_modules/@imagina/qplan
-	url = https://github.com/imagina/qplan.git
+	url = https://github.com/victoracho/qplan.git
 [submodule "node_modules/@imagina/qad"]
 	path = node_modules/@imagina/qad
-	url = https://github.com/imagina/qad.git
+	url = https://github.com/victoracho/qad.git
 [submodule "node_modules/@imagina/qcheckin"]
 	path = node_modules/@imagina/qcheckin
-	url = https://github.com/imagina/qcheckin.git
+	url = https://github.com/victoracho/qcheckin.git
 [submodule "node_modules/@imagina/qappointment"]
 	path = node_modules/@imagina/qappointment
-	url = https://github.com/imagina/qappointment.git
+	url = https://github.com/victoracho/qappointment.git
 [submodule "node_modules/@imagina/qtranslation"]
 	path = node_modules/@imagina/qtranslation
-	url = https://github.com/imagina/qtranslation.git
+	url = https://github.com/victoracho/qtranslation.git
 [submodule "node_modules/@imagina/qbooking"]
 	path = node_modules/@imagina/qbooking
-	url = https://github.com/imagina/qbooking.git
+	url = https://github.com/victoracho/qbooking.git
 [submodule "node_modules/@imagina/qrequestable"]
 	path = node_modules/@imagina/qrequestable
-	url = https://github.com/imagina/qrequestable.git
+	url = https://github.com/victoracho/qrequestable.git
 [submodule "node_modules/@imagina/qcredit"]
 	path = node_modules/@imagina/qcredit
-	url = https://github.com/imagina/qcredit.git
+	url = https://github.com/victoracho/qcredit.git
